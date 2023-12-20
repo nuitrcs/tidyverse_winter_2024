@@ -22,11 +22,11 @@ You may also want to learn about R Markdown files (and R Notebooks, which are a 
 
 ### Links
 
-Links for each session will show the rendered html file.  There is a button in the upper right of each file to download the .Rmd file to work with in RStudio yourself. Or [download this entire repository](https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/) instead to get the .Rmd files for all sessions.
+Links for each session will show the rendered html file.  There is a button in the upper right corner of each file to download the .Rmd file to work with in RStudio yourself.
 
-The winter 2024 workshop will include the following five parts:
+The winter 2024 workshop series will include the following six parts:
 
-* Session 1 (URL pending): Tidyverse basics
+* [Session 1](https://nuitrcs.github.io/tidyverse_basics/intro.html): Tidyverse basics
 * Session 2 (URL pending): dplyr – select, filter, mutate
 * Session 3 (URL pending): dplyr – group by, summarize, arrange, across    
 * Session 4 (URL pending): dplyr – joins - working with two data frames
