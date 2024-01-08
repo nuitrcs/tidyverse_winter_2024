@@ -27,6 +27,7 @@ Links for each session will show the rendered html file.  There is a button in t
 The winter 2024 workshop series will include the following six parts:
 
 * [Session 1](https://nuitrcs.github.io/tidyverse_basics/intro.html): Tidyverse basics
+  * Recording [here](https://northwestern.zoom.us/rec/share/XekpJ3gTIeAlBtiqI4pLU3Yt_-RzGp84717_K2LkAl5dQbQoP9TJhUx1Uf2dgaVe.RO8uGFSTdq2uNuxv?startTime=1704736440000)
 * Session 2 (URL pending): dplyr – select, filter, mutate
 * Session 3 (URL pending): dplyr – group by, summarize, arrange, across    
 * Session 4 (URL pending): dplyr – joins - working with two data frames
