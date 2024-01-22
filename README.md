@@ -29,6 +29,7 @@ The winter 2024 workshop series will include the following six parts:
 * [Session 1](https://nuitrcs.github.io/tidyverse_basics/intro.html): Tidyverse basics
   * Recording [here](https://northwestern.zoom.us/rec/share/XekpJ3gTIeAlBtiqI4pLU3Yt_-RzGp84717_K2LkAl5dQbQoP9TJhUx1Uf2dgaVe.RO8uGFSTdq2uNuxv?startTime=1704736440000)
 * [Session 2](https://nuitrcs.github.io/tidyverse_dplyr_select_filter_mutate/dplyr_select_filter_mutate.html#): dplyr – select, filter, mutate
+  * Recording [here](https://northwestern.zoom.us/rec/share/xlVE5_hPNDicRALA_4Z-GT4zsaaVjjmMt71BYlBrU_mTpZ00T00ZQymMM5RvJVMA.NIK95lzXHIm2WjGm)
 * Session 3 (URL pending): dplyr – group by, summarize, arrange, across    
 * Session 4 (URL pending): dplyr – joins - working with two data frames
 * Session 5 (URL pending): tidyr – pivot_longer, pivot_wider, separate, separate_rows
