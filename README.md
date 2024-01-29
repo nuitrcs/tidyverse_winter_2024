@@ -30,7 +30,8 @@ The winter 2024 workshop series will include the following six parts:
   * Recording [here](https://northwestern.zoom.us/rec/share/XekpJ3gTIeAlBtiqI4pLU3Yt_-RzGp84717_K2LkAl5dQbQoP9TJhUx1Uf2dgaVe.RO8uGFSTdq2uNuxv?startTime=1704736440000)
 * [Session 2](https://nuitrcs.github.io/tidyverse_dplyr_select_filter_mutate/dplyr_select_filter_mutate.html#): dplyr – select, filter, mutate
   * Recording [here](https://northwestern.zoom.us/rec/share/xlVE5_hPNDicRALA_4Z-GT4zsaaVjjmMt71BYlBrU_mTpZ00T00ZQymMM5RvJVMA.NIK95lzXHIm2WjGm)
-* [Session 3](https://nuitrcs.github.io/tidyverse_dplyr_groupby_summarise_arrange_across/dplyr-group.html): dplyr – group by, summarize, arrange, across    
+* [Session 3](https://nuitrcs.github.io/tidyverse_dplyr_groupby_summarise_arrange_across/dplyr-group.html): dplyr – group by, summarize, arrange, across
+  * Recording [here](https://northwestern.zoom.us/rec/share/PPbpF0lxapis0Sh9zN0hInYPk1ItAVz12_0BoSbEnL499igUz7GQCCkoL1dZ9Tfp.asQOjiwfk6Zy9wKB)  
 * Session 4 (URL pending): dplyr – joins - working with two data frames
 * Session 5 (URL pending): tidyr – pivot_longer, pivot_wider, separate, separate_rows
 * Session 6 (URL pending): a quick intro to ggplot2
