@@ -35,6 +35,7 @@ The winter 2024 workshop series will include the following six parts:
 * [Session 4](https://nuitrcs.github.io/tidyverse_dplyr_join/): dplyr – joins - working with two data frames
   * Recording [here](https://northwestern.zoom.us/rec/share/lpXHRcMJ_ODq3xKUUCMVSTuHCn9FpPnxIA4tYv2FHpUc8iYK5VWVSGB0UZx_Vnki.z6sg7cSNWt8kTRnB)
 * [Session 5](https://nuitrcs.github.io/tidyverse_tidyr_pivot/): tidyr – pivot_longer, pivot_wider, separate, separate_rows
+  * Recording [here](https://northwestern.zoom.us/rec/share/T6joitqveofvYAgR-mVOj5hkrYhFmX-__xJT7w4KVNrdIzoo-OHUEEzQ2zAgE2-U.a08_Uf5RjMpxD2y7)
 * [Session 6](https://nuitrcs.github.io/quick_intro_ggplot2/ggplot2.html): a quick intro to ggplot2
 
 These are some additional sessions taught in the past that you can take a look at (please note that the code might not be updated):
